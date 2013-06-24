@@ -1,0 +1,23 @@
+body {
+	margin: 0 0;
+	text-align: center;
+	font-family:
+}
+
+header{
+	background-image:url('beans.jpg');
+}
+
+header#logo{
+	position: relative;
+}
+
+nav{
+	display: inline-block;
+	list-style-type: none;
+}
+
+h1{
+	font-size: 24pt;
+}
+

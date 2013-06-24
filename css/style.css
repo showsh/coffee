@@ -1,0 +1,78 @@
+body {
+	margin:0 auto;
+  	width:960px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	background-color:#633;
+}
+
+header{
+	margin-left:auto;
+	margin-right:auto;
+	background-image:url('images/beans.jpg');
+}
+
+#logo{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	padding:40px;
+}
+
+h3{
+	font-size:18px;
+	font-family:Tahoma, Geneva, sans-serif;
+}
+
+nav{
+	height:35px;
+	background-color:#630;
+	text-align:center;
+}
+
+nav li{
+	display:inline;
+	list-style:none;
+	margin:0 auto;
+}
+
+nav ul{
+	padding:10px;
+}
+
+nav a{
+	text-decoration:none;
+	color:#FFF;
+	padding:20px;
+}
+
+section{
+	height:350px;
+	text-align:center;
+	margin:0 auto;
+	background-color:#FFF;
+	padding:30px;
+}
+
+article#left{
+	width:42%;
+	margin:30px;
+	float:left;
+	line-height:1.5em;
+}
+
+article#right{
+	width:42%;
+	margin:30pt;
+	float:left;
+	line-height:1.5em;
+}
+
+footer{
+	text-align:center;
+	height:70px;
+	background-color:#633;
+	position:relative;
+	padding-top:30px;
+	color:#FFF;
+}
+
